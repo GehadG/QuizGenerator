@@ -22,7 +22,7 @@ public class DBHandler {
      private static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
     private static final String DB_URL = "jdbc:mysql://localhost/quiz";
     private static final String USER = "root";
-    private static final String PASS = "kimpossible";
+    private static final String PASS = "01114085663";
 
     public DBHandler() {
 
