@@ -33,6 +33,7 @@ public class AddQuestion extends javax.swing.JPanel {
         trues.setVisible(false);
         falses.setVisible(false);
         hint.setVisible(false);
+        int tryGit = 0; // New thing
     }
 
     
